@@ -1,8 +1,10 @@
 <aura:component implements="forceCommunity:availableForAllPageTypes, flexipage:availableForRecordHome">
-    <aura:attribute name="selectedTab" type="String"/>
+    <aura:attribute name="selectedTab" type="String" default="order"/>
+
+    <aura:handler name="change" value="{!v.selectedTab}" action="{!c.handeTableSelection}"/>
 
     <div class="container">
-        <lightning:buttonGroup>
+        <lightning:buttonGroup class="slds-p-right_none slds-p-top_none">
             <lightning:button label="Order a booze" value="order" onclick="{!c.switchTab}"/>
             <lightning:button label="Bring a booze" value="bring" onclick="{!c.switchTab}"/>
         </lightning:buttonGroup>
