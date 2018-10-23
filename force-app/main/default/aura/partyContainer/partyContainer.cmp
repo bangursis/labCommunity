@@ -1,0 +1,19 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes, flexipage:availableForRecordHome">
+    <aura:attribute name="selectedTab" type="String"/>
+
+    <div class="container">
+        <lightning:buttonGroup>
+            <lightning:button label="Order a booze" value="order" onclick="{!c.switchTab}"/>
+            <lightning:button label="Bring a booze" value="bring" onclick="{!c.switchTab}"/>
+        </lightning:buttonGroup>
+
+        <aura:if isTrue="{!v.selectedTab == 'order'}">
+            <c:partyTakeABooze/>
+        </aura:if>
+        
+        <aura:if isTrue="{!v.selectedTab == 'bring'}">
+            <!--<c:partyTakeABooze/>-->
+        </aura:if>
+
+    </div>
+</aura:component>	
