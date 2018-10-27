@@ -92,15 +92,15 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 853,
             "modifiedTime": 1540328835981,
             "changeTime": 1540328835981,
-            "isWorkspace": false,
-            "contentHash": "a9c2f6f461a7edb01615c9bcadf1d8407d116619"
+            "contentHash": "a9c2f6f461a7edb01615c9bcadf1d8407d116619",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -170,11 +170,11 @@
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 234,
-            "modifiedTime": 1540328927502,
-            "changeTime": 1540328927502,
+            "size": 207,
+            "modifiedTime": 1540329098435,
+            "changeTime": 1540329098435,
             "isWorkspace": false,
-            "contentHash": "239dc01642d92f2f7c840ce81d3fb43317e5ad76"
+            "contentHash": "cc2fec7577b303a6900b1847a33d84bc5378ebe0"
         }
     ],
     [
@@ -319,11 +319,11 @@
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 312,
-            "modifiedTime": 1540328943110,
-            "changeTime": 1540328943110,
+            "size": 342,
+            "modifiedTime": 1540329010889,
+            "changeTime": 1540329010889,
             "isWorkspace": false,
-            "contentHash": "28461a13387f2dba01bebc9d95e8c0233fb5fe10"
+            "contentHash": "58650996323c0b15e95d18eae574e642e511afcf"
         }
     ],
     [

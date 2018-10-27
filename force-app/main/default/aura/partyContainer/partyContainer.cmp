@@ -5,8 +5,8 @@
 
     <div class="container">
         <lightning:buttonGroup class="slds-p-right_none slds-p-top_none">
-            <lightning:button label="Order a booze" value="order" onclick="{!c.switchTab}"/>
-            <lightning:button label="Bring a booze" value="bring" onclick="{!c.switchTab}"/>
+            <lightning:button aura:id="button" label="Order a booze" value="order" onclick="{!c.switchTab}"/>
+            <lightning:button aura:id="button" label="Bring a booze" value="bring" onclick="{!c.switchTab}"/>
         </lightning:buttonGroup>
 
         <aura:if isTrue="{!v.selectedTab == 'order'}">
@@ -14,7 +14,7 @@
         </aura:if>
         
         <aura:if isTrue="{!v.selectedTab == 'bring'}">
-            <!--<c:partyTakeABooze/>-->
+            <!--<c:partyBringABooze/>-->
         </aura:if>
 
     </div>
