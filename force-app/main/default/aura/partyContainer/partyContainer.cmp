@@ -1,8 +1,6 @@
 <aura:component implements="forceCommunity:availableForAllPageTypes, flexipage:availableForRecordHome">
     <aura:attribute name="selectedTab" type="String" default="order"/>
 
-    <aura:handler name="change" value="{!v.selectedTab}" action="{!c.handeTableSelection}"/>
-
     <div class="container">
         <lightning:buttonGroup class="slds-p-right_none slds-p-top_none">
             <lightning:button aura:id="button" label="Order a booze" value="order" onclick="{!c.switchTab}"/>
@@ -15,6 +13,7 @@
         
         <aura:if isTrue="{!v.selectedTab == 'bring'}">
             <!--<c:partyBringABooze/>-->
+            DEMO 222
         </aura:if>
 
     </div>
