@@ -1,7 +1,16 @@
 <aura:component controller="PartyController">
     <aura:attribute name="boozes" type="List"/>
+    <aura:attribute name="selectedAmount" type="Integer" default="0"/>
 
     <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
 
-    <div>DEMO</div>
+    <div class="takeContainer">
+        <lightning:select label="Type of a booze" aura:id="pickABooze" onchange="{!c.setAmount}">
+            <aura:iteration items="{!v.boozes}" var="booze" indexVar="i">
+                <option value="i">{!booze.Name}</option>            
+            </aura:iteration>
+        </lightning:select>
+
+        <lightning:input type="number" min="0" max="{!v.selectedAmount}" label="Amount to drink"/>
+    </div>
 </aura:component>	

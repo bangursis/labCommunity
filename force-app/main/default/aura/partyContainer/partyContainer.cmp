@@ -3,13 +3,13 @@
 
     <div class="container">
         <lightning:buttonGroup class="slds-p-right_none slds-p-top_none">
-            <lightning:button aura:id="button" label="Order a booze" value="order" onclick="{!c.switchTab}"/>
+            <lightning:button class="selectedTab" aura:id="button" label="Order a booze" value="order" onclick="{!c.switchTab}"/>
             <lightning:button aura:id="button" label="Bring a booze" value="bring" onclick="{!c.switchTab}"/>
         </lightning:buttonGroup>
 
         <div class="containerBody">
             <aura:if isTrue="{!v.selectedTab == 'order'}">
-                <c:partyTakeABooze/>
+                <c:partyTakeABooze />
             </aura:if>
             
             <aura:if isTrue="{!v.selectedTab == 'bring'}">
