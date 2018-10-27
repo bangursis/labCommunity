@@ -7,14 +7,15 @@
             <lightning:button aura:id="button" label="Bring a booze" value="bring" onclick="{!c.switchTab}"/>
         </lightning:buttonGroup>
 
-        <aura:if isTrue="{!v.selectedTab == 'order'}">
-            <c:partyTakeABooze/>
-        </aura:if>
-        
-        <aura:if isTrue="{!v.selectedTab == 'bring'}">
-            <!--<c:partyBringABooze/>-->
-            DEMO 222
-        </aura:if>
+        <div class="containerBody">
+            <aura:if isTrue="{!v.selectedTab == 'order'}">
+                <c:partyTakeABooze/>
+            </aura:if>
+            
+            <aura:if isTrue="{!v.selectedTab == 'bring'}">
+                <!--<c:partyBringABooze/>-->
+            </aura:if>
+        </div>
 
     </div>
 </aura:component>	
