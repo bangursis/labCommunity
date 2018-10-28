@@ -22,11 +22,11 @@
 
     take : function(component){
         let index = component.find("pickABooze").get("v.value");
-        let booze = component.get("v.boozes")[index || 0];
+        let boozes = component.get("v.boozes");
+
+        let booze = boozes[index || 0];
         let bId = booze.Id;
         let amount = component.get("v.selectedAmount") - component.find("pickedAmount").get('v.value');
-
-        console.log(`${bId}    ${amount}`);
 
         let action = component.get("c.pickABooze");
         action.setParams({
@@ -35,8 +35,35 @@
         $A.enqueueAction(action);
 
         action.setCallback(this, res => {
-            console.log(res.getState());
-        })
+            if(res.getState() == 'SUCCESS'){
+                let updatedBoozes= [];
+                if(amount === 0){
+                        updatedBoozes = boozes.filter(current => current.Id != bId);
+                        component.set("v.selectedAmount", updatedBoozes[0].Amount__c);
+                }
+                
+                else
+                    updatedBoozes = boozes.map(current => {
+                        if (current.Id == bId) {
+                            current.Amount__c = amount
+                            component.set("v.selectedAmount", amount);
+                        }
+                        return current;
+                    });
+
+                component.set("v.boozes", updatedBoozes);      
+            }
+
+            else{
+                let evt = $A.get("e.force:showToast");
+                evt.setParams({
+                    title : `SMTH WENT WRONG`,
+                    message : `DA FACK?! DA PARTY IS BULLSHIT`,
+                    type : `error`
+                });
+                evt.fire();
+            }
+        });
     }
 })
  
