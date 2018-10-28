@@ -28,7 +28,7 @@
         let bId = booze.Id;
         let amount = component.get("v.selectedAmount") - component.find("pickedAmount").get('v.value');
 
-        let action = component.get("c.pickABooze");
+        let action = component.get("c.updateABooze");
         action.setParams({
             bId, amount
         });

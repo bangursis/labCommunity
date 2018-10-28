@@ -5,7 +5,12 @@ public class PartyController {
    } 
 
    @AuraEnabled
-   public static void pickABooze(Id bId, Integer amount){
+   public static List<Booze__c> boozesToBring(){
+     return [SELECT Name FROM Booze__c];
+   }
+
+   @AuraEnabled
+   public static void updateABooze(Id bId, Integer amount){
      update new Booze__c(
        Id = bId,
        Amount__c = Integer.valueOf(amount)
