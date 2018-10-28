@@ -236,15 +236,15 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp",
             "isDirectory": false,
+            "size": 1066,
+            "modifiedTime": 1540751999527,
+            "changeTime": 1540751999527,
+            "contentHash": "cf6962539fff90ee8775f9b64b1374be02a5ee4a",
             "isMetadataFile": false,
-            "size": 689,
-            "modifiedTime": 1540677799670,
-            "changeTime": 1540677799670,
-            "isWorkspace": false,
-            "contentHash": "97808861a8e92072231fa7b1e0a0501cc20062ce"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -312,10 +312,10 @@
         {
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeController.js",
             "isDirectory": false,
-            "size": 745,
-            "modifiedTime": 1540677616903,
-            "changeTime": 1540677616903,
-            "contentHash": "fa169c5ed5a2d81314ca57236d1991ff0f5f326c",
+            "size": 1276,
+            "modifiedTime": 1540752645857,
+            "changeTime": 1540752645857,
+            "contentHash": "fd43e2d39c8134eb394e62a455a6b7f8a8e4a5c5",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -369,14 +369,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls",
         {
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls",
             "isDirectory": false,
-            "size": 172,
-            "modifiedTime": 1540675365745,
-            "changeTime": 1540675365745,
-            "contentHash": "c465561cebed40053a8135df0e8e90e807c136fb",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 381,
+            "modifiedTime": 1540752873080,
+            "changeTime": 1540752873080,
+            "contentHash": "316b1eb8aee1bfcd99b02c0f1fd08d85b15fb0fc"
         }
     ],
     [

@@ -5,12 +5,19 @@
     <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
 
     <div class="takeContainer">
-        <lightning:select label="Type of a booze" aura:id="pickABooze" onchange="{!c.setAmount}">
-            <aura:iteration items="{!v.boozes}" var="booze" indexVar="i">
-                <option value="i">{!booze.Name}</option>            
-            </aura:iteration>
-        </lightning:select>
+        <aura:if isTrue="{!v.boozes.length > 0}">
+            <lightning:select label="Type of a booze" aura:id="pickABooze" onchange="{!c.setAmount}">
+                <aura:iteration items="{!v.boozes}" var="booze" indexVar="i">
+                    <option value="{!i}">{!booze.Name}</option>            
+                </aura:iteration>
+            </lightning:select>
 
-        <lightning:input type="number" min="0" max="{!v.selectedAmount}" label="Amount to drink"/>
+            <lightning:input type="number" min="0" aura:id="pickedAmount" max="{!v.selectedAmount}" label="Amount to drink" placeholder="{!'Max: ' + v.selectedAmount}"/>
+
+            <lightning:button label="Tak dis " onclick="{!c.take}" class="btn"/>
+            <aura:set attribute="else">
+                <div class="noBoozes">No boozes, brah</div>
+            </aura:set>
+        </aura:if>
     </div>
 </aura:component>	
