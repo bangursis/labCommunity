@@ -1,7 +1,7 @@
 ({
     sendBoozes: function(component) {
         let event = component.getEvent("loadBoozes");
-        let boozes = component.get("v.boozes");
+        let boozes = Array.from(component.get("v.boozes"));
 
         event.setParams({boozes});
 

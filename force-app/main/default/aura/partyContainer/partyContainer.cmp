@@ -15,6 +15,7 @@
             </aura:if>
             
             <aura:if isTrue="{!v.selectedTab == 'bring'}">
+                DEMO
                 <c:partyBringABooze/>
             </aura:if>
         </div>

@@ -3,7 +3,7 @@
     <aura:attribute name="selectedAmount" type="Integer" default="0"/>
 
     <aura:handler name="init" value="{!this}" action="{!c.onInit}"/>
-    <aura:registerEvent  name="loadBoozes" type="c:loadBoozes"/>
+    <aura:registerEvent name="loadBoozes" type="c:loadBoozes"/>
 
     <div class="takeContainer">
         <aura:if isTrue="{!v.boozes.length > 0}">

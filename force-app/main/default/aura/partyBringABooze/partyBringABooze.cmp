@@ -1,19 +1,18 @@
-<aura:component>
+<aura:component controller="PartyController">
 
     <aura:attribute name="boozes" type="List" />
 
     <aura:handler name="init" value="{!this}" action="{!c.init}"/>
 
     <lightning:select label="Bringed Booze">
-
         <aura:iteration  items="{!v.boozes}" var="booze" indexVar="i">
             <option value="{!i}">{!booze.Name}</option>
         </aura:iteration>
 
-        <lightning:input type="number" min="0" aura:id="amount" label="Amount to bring"/>
-        
-
-        <lightning:button label="Brin' dis" onclick="{!c.bring}" class="btn"/>
     </lightning:select>
+    
+    <lightning:input type="number" min="0" aura:id="amount" label="Amount to bring"/>
+
+    <lightning:button label="Brin' dis" onclick="{!c.bring}" class="btn"/>
 </aura:component>	
   

@@ -6,7 +6,7 @@
 
         helper.selectTab (tab, selected);
     },
-    handleBoozesLoade : function(component, event){
-        console.log(event.getParam(boozes));
+    handleBoozesLoaded : function(component, event){
+        console.log(event.getParams("boozes"));
     }
 })
