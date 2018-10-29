@@ -1,15 +1,18 @@
 ({
-    onInit : function(component) {
+    onInit : function(component, event, helper) {
         let action = component.get('c.checkBoozes');
+        let boozes = component.get("v.boozes");
         action.setStorable();
-        $A.enqueueAction(action);
+
+        if( boozes == null || !(Array.isArray(boozes)) || boozes.length < 1)
+            $A.enqueueAction(action);
 
         action.setCallback(this, res => {
             if(res.getState() == "SUCCESS"){
                 let boozes = res.getReturnValue();
                 component.set("v.boozes", boozes);
                 component.set("v.selectedAmount", boozes[0].Amount__c);
-                
+                helper.sendBoozes(component);
             }
         })
     },
