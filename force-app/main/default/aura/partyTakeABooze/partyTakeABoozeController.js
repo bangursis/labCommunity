@@ -6,6 +6,8 @@
 
         if( boozes == null || !(Array.isArray(boozes)) || boozes.length < 1)
             $A.enqueueAction(action);
+        else
+            component.set("v.selectedAmount", boozes[0].Amount__c);
 
         action.setCallback(this, res => {
             if(res.getState() == "SUCCESS"){
