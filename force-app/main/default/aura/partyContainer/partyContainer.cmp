@@ -2,8 +2,7 @@
     <aura:attribute name="selectedTab" type="String" default="order"/>
     <aura:attribute name="boozes" type="List" default="[]"/>
 
-    <aura:registerEvent  name="loadBoozes" event="c:loadBoozes"/>
-
+    <aura:handler name="loadBoozes" />
     <div class="container">
         <lightning:buttonGroup class="slds-p-right_none slds-p-top_none">
             <lightning:button class="selectedTab" aura:id="button" label="Order a booze" value="order" onclick="{!c.switchTab}"/>
