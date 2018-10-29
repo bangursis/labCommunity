@@ -1,5 +1,5 @@
 ({
-    helperMethod : function(component) {
+    sendBoozes: function(component) {
         let event = component.getEvent("loadBoozes");
         let boozes = component.get("v.boozes");
 
