@@ -13,7 +13,7 @@
         <lightning:input type="number" min="0" aura:id="amount" label="Amount to bring"/>
         
 
-        <lightning:button label="Bring dis" onclick="{!c.bring}" class="btn"/>
+        <lightning:button label="Brin' dis" onclick="{!c.bring}" class="btn"/>
     </lightning:select>
 </aura:component>	
   

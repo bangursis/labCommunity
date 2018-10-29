@@ -1,5 +1,6 @@
 <aura:component implements="forceCommunity:availableForAllPageTypes, flexipage:availableForRecordHome">
     <aura:attribute name="selectedTab" type="String" default="order"/>
+    <aura:attribute name="boozes" type="List" default="[]"/>
 
     <div class="container">
         <lightning:buttonGroup class="slds-p-right_none slds-p-top_none">
