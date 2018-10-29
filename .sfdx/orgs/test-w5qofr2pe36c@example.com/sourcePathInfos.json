@@ -89,15 +89,15 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1060,
             "modifiedTime": 1540843999934,
             "changeTime": 1540843999934,
-            "isWorkspace": false,
-            "contentHash": "af6bf19299cdd9d3b1ceca563fb9898c62bec2b7"
+            "contentHash": "af6bf19299cdd9d3b1ceca563fb9898c62bec2b7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -311,10 +311,10 @@
         {
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeController.js",
             "isDirectory": false,
-            "size": 2461,
-            "modifiedTime": 1540839068455,
-            "changeTime": 1540839068455,
-            "contentHash": "d0134b366438f4b25efb16127384979954507191",
+            "size": 2542,
+            "modifiedTime": 1540846345827,
+            "changeTime": 1540846345827,
+            "contentHash": "3cff83ddd3406acc9d24b231367ffebf1d1369a2",
             "isMetadataFile": false,
             "state": "u",
             "isWorkspace": false
@@ -1399,10 +1399,10 @@
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 576,
-            "modifiedTime": 1540843779187,
-            "changeTime": 1540843779187,
-            "contentHash": "aa9195f662c24af2f059889c61d3b74f96960101"
+            "size": 597,
+            "modifiedTime": 1540847693367,
+            "changeTime": 1540847693367,
+            "contentHash": "25369471b67f53f16379ce23467922c8083bdf98"
         }
     ],
     [
