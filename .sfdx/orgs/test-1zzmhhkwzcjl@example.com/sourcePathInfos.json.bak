@@ -2,14 +2,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540666625072,
             "changeTime": 1540666625072,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540322661221,
             "changeTime": 1540322661221,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,14 +32,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151248,
             "changeTime": 1540673151248,
             "contentHash": "0c8d4fc4493aeca826e66afe9df72ab8471b8d9a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -47,14 +47,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1541105524093,
             "changeTime": 1541105524093,
             "contentHash": "069d2d5c4983c0b5c9419eaa0612ec51a814fde9",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +62,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540838381303,
             "changeTime": 1540838381303,
             "contentHash": "5a42a8332df0be37a3373893e8d489727c202577",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +77,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes\\loadBoozes.evt",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes\\loadBoozes.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 122,
             "modifiedTime": 1540838416431,
             "changeTime": 1540838416431,
             "contentHash": "4eb1a3c6255c797564b44249731384edf20d9793",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +92,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes\\loadBoozes.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes\\loadBoozes.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 238,
             "modifiedTime": 1540838381303,
             "changeTime": 1540838381303,
             "contentHash": "9e706277295a9b8fa2558f7b2dff892007b53b89",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +107,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540754927278,
             "changeTime": 1540754927278,
             "contentHash": "76aa32850447407d2005813f3320980370f218a4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +122,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.auradoc",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1540754927277,
             "changeTime": 1540754927277,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +137,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 663,
             "modifiedTime": 1541107972492,
             "changeTime": 1541107972492,
             "contentHash": "cf035547f9d7ea27157808322f60f769fb7e0b2a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +152,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 248,
             "modifiedTime": 1540754927247,
             "changeTime": 1540754927247,
             "contentHash": "dc03ebe3d5505701655dec79a4d9888cb12635de",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +167,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.css",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1540754927272,
             "changeTime": 1540754927272,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +182,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.design",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1540754927279,
             "changeTime": 1540754927279,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +197,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.svg",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1540754927275,
             "changeTime": 1540754927275,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -216,12 +216,11 @@
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeController.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1596,
-            "modifiedTime": 1541107401712,
-            "changeTime": 1541107401712,
-            "contentHash": "046f9ed6939e009c4aee4ca9dc4240aae68556a9",
+            "size": 1607,
+            "modifiedTime": 1541108179730,
+            "changeTime": 1541108179730,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "93f2deced97eaa3175ec9ef30c60d37447a717a2"
         }
     ],
     [
@@ -231,25 +230,24 @@
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 218,
-            "modifiedTime": 1541106036042,
-            "changeTime": 1541106036042,
-            "contentHash": "818294dfff158d62445b381dbcc85a378ce52b4b",
+            "size": 237,
+            "modifiedTime": 1541108142546,
+            "changeTime": 1541108142546,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "bef3e63a879817e8ac6232345ff8a5b6cd3f9f53"
         }
     ],
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeRenderer.js",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1540754927274,
             "changeTime": 1540754927274,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -257,14 +255,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540324258900,
             "changeTime": 1540324258900,
             "contentHash": "70d35650a3e9b4570636f25d7934a6be38927d91",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -272,14 +270,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.auradoc",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1540324258898,
             "changeTime": 1540324258898,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -291,25 +289,24 @@
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1150,
-            "modifiedTime": 1541106383968,
-            "changeTime": 1541106383968,
-            "contentHash": "519a9e8e9e564647003c549535873c880a443fbe",
+            "size": 1156,
+            "modifiedTime": 1541108080551,
+            "changeTime": 1541108080551,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "3e0328749f371c1b4d4607a9efa03894e3a0a085"
         }
     ],
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 246,
             "modifiedTime": 1540324258872,
             "changeTime": 1540324258872,
             "contentHash": "982fe99dbff9a3a540306b8a214e693551d93d0c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -317,14 +314,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.css",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 71,
             "modifiedTime": 1540671068819,
             "changeTime": 1540671068819,
             "contentHash": "945bdf15ab90e1bb264989504afed8d314e2b6cb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -332,14 +329,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.design",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1540324258900,
             "changeTime": 1540324258900,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -347,14 +344,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.svg",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1540324258897,
             "changeTime": 1540324258897,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -362,14 +359,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerController.js",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 448,
             "modifiedTime": 1541106424692,
             "changeTime": 1541106424692,
             "contentHash": "02b7c57116da18b70790b0922ab460efab9eddd9",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -377,14 +374,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerHelper.js",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 264,
             "modifiedTime": 1540671197506,
             "changeTime": 1540671197506,
             "contentHash": "742b9ab994b45356bb02dfa69f28853980ba2f2f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -392,14 +389,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerRenderer.js",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1540324258896,
             "changeTime": 1540324258896,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -407,14 +404,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540324289283,
             "changeTime": 1540324289283,
             "contentHash": "5aaddb4fd22c77288652c45c4844ee8927e0f9b4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -422,14 +419,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.auradoc",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1540324289282,
             "changeTime": 1540324289282,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -437,14 +434,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1130,
             "modifiedTime": 1540842469035,
             "changeTime": 1540842469035,
             "contentHash": "580490de43b48bc57a62882e919e04e30201dba6",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -452,14 +449,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 247,
             "modifiedTime": 1540324289275,
             "changeTime": 1540324289275,
             "contentHash": "43905c38569960630fa9ae7784253f81c2d78219",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -467,14 +464,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.css",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1540324289279,
             "changeTime": 1540324289279,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -482,14 +479,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.design",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1540324289283,
             "changeTime": 1540324289283,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -497,14 +494,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.svg",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1540324289281,
             "changeTime": 1540324289281,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -512,14 +509,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeController.js",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 2542,
             "modifiedTime": 1540846345827,
             "changeTime": 1540846345827,
             "contentHash": "3cff83ddd3406acc9d24b231367ffebf1d1369a2",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -527,14 +524,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeHelper.js",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 223,
             "modifiedTime": 1540841547158,
             "changeTime": 1540841547158,
             "contentHash": "97f3a4e31a0090cfe647301998690875848976c2",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -542,14 +539,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeRenderer.js",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1540324289280,
             "changeTime": 1540324289280,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -557,14 +554,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151234,
             "changeTime": 1540673151234,
             "contentHash": "33266373267afa68839c3cc992a9d91346fd2f06",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -572,14 +569,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 460,
             "modifiedTime": 1540755489939,
             "changeTime": 1540755489939,
             "contentHash": "e4138a4d097d35a452f76cda85bda09d8bd266f0",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -587,14 +584,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1540673151230,
             "changeTime": 1540673151230,
             "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -602,14 +599,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151224,
             "changeTime": 1540673151224,
             "contentHash": "a6cf2080a621037553d5d477590d962248324417",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -617,14 +614,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6242,
             "modifiedTime": 1540673151224,
             "changeTime": 1540673151224,
             "contentHash": "0440b57b20d2d2432402e173ead1d857fc401075",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -632,14 +629,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3307,
             "modifiedTime": 1540673151211,
             "changeTime": 1540673151211,
             "contentHash": "3e7f39b3f42127dfc8ad2c4d2d9702bdf9191422",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -647,14 +644,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151108,
             "changeTime": 1540673151108,
             "contentHash": "4b1bc15c4036b099523b2707bfac0aedabde5c2f",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -662,14 +659,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673150986,
             "changeTime": 1540673150986,
             "contentHash": "82a5078765c2f1122397f2a823a7250f80f7bbdb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -677,14 +674,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3921,
             "modifiedTime": 1540673150985,
             "changeTime": 1540673150985,
             "contentHash": "f9283cea22e9fbcd8c7cc5a1c1173a6c2b7b3cc7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -692,14 +689,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151032,
             "changeTime": 1540673151032,
             "contentHash": "fc084546f56879d9a97e6e4367f2abae2a1035f3",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -707,14 +704,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 202,
             "modifiedTime": 1540673150987,
             "changeTime": 1540673150987,
             "contentHash": "2485668a3437d5add365adc6395699585c0ec6d0",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -722,14 +719,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1540673150988,
             "changeTime": 1540673150988,
             "contentHash": "1dee20ac58a40482934d035192fe7a98db6d9a81",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -737,14 +734,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 202,
             "modifiedTime": 1540673151002,
             "changeTime": 1540673151002,
             "contentHash": "428d667e4a7e884d30e9f297f975d2a6484dc2cd",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -752,14 +749,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 203,
             "modifiedTime": 1540673151004,
             "changeTime": 1540673151004,
             "contentHash": "780b69fd147e2be6a8e2388d7c4336e215f67586",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -767,14 +764,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1540673151005,
             "changeTime": 1540673151005,
             "contentHash": "b2a6d6cc0822db9616bc68852769a9ce9e31b8cb",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -782,14 +779,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 227,
             "modifiedTime": 1540673151006,
             "changeTime": 1540673151006,
             "contentHash": "c36e183fef5796b39d7f2abad313817f99c74127",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -797,14 +794,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1540673151007,
             "changeTime": 1540673151007,
             "contentHash": "57d79a023b3596766f7369502cb5e2bac6a5cb92",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -812,14 +809,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
             "modifiedTime": 1540673151008,
             "changeTime": 1540673151008,
             "contentHash": "b9eafa97bfa4f532b3645d306161068341cd99dd",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -827,14 +824,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1540673151009,
             "changeTime": 1540673151009,
             "contentHash": "7531bb94080187ff2cb7ab86658d706842b99d1f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -842,14 +839,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 223,
             "modifiedTime": 1540673151010,
             "changeTime": 1540673151010,
             "contentHash": "6f0a5236c2130d964cc6b9654fd5f11e512dca47",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -857,14 +854,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1540673151012,
             "changeTime": 1540673151012,
             "contentHash": "4ada28399de9ac97f1dc447fb1aaa8b887d11974",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -872,14 +869,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1540673151013,
             "changeTime": 1540673151013,
             "contentHash": "1cf643f5c1633de90169cdb7628f965ac9d927f3",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -887,14 +884,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1540673151014,
             "changeTime": 1540673151014,
             "contentHash": "5f0f4a91707a74fee313ea9dbc09659724dfd2f0",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -902,14 +899,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1540673151015,
             "changeTime": 1540673151015,
             "contentHash": "68769f37d93e5a8c8bc5ad8c2581f0f06ddca5f9",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -917,14 +914,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 206,
             "modifiedTime": 1540673151017,
             "changeTime": 1540673151017,
             "contentHash": "9d2f6c78b600962d19202740171268557046a498",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -932,14 +929,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 229,
             "modifiedTime": 1540673151018,
             "changeTime": 1540673151018,
             "contentHash": "e05e34427505b15fb131b564768c9199ddf39c9e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -947,14 +944,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 219,
             "modifiedTime": 1540673151019,
             "changeTime": 1540673151019,
             "contentHash": "52c2c64fa2e6525fc461c88e9c37849e89259798",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -962,14 +959,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1540673151020,
             "changeTime": 1540673151020,
             "contentHash": "d84c9b729263e5159ea9a88550f4941bde5aa50e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -977,14 +974,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 224,
             "modifiedTime": 1540673151021,
             "changeTime": 1540673151021,
             "contentHash": "a189aa9e1c94d29eb1f90c9544bfbd668be25cff",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -992,14 +989,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 194,
             "modifiedTime": 1540673151022,
             "changeTime": 1540673151022,
             "contentHash": "d58ccb85259d8a88abf129f4ea89ea8304963487",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1007,14 +1004,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 221,
             "modifiedTime": 1540673151023,
             "changeTime": 1540673151023,
             "contentHash": "a8224eb175152b9deed680b818cbffd218dd5e3f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1022,14 +1019,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 204,
             "modifiedTime": 1540673151024,
             "changeTime": 1540673151024,
             "contentHash": "c30026606731cd625b5d0b4e8e529a2418ef1ee6",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1037,14 +1034,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 192,
             "modifiedTime": 1540673151025,
             "changeTime": 1540673151025,
             "contentHash": "33262a22c31dbefac748023c3a6c018d743d3161",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1052,14 +1049,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1540673151026,
             "changeTime": 1540673151026,
             "contentHash": "bc19f903ec1384e12d7dd7bc9ffa88580a091422",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1067,14 +1064,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1540673151027,
             "changeTime": 1540673151027,
             "contentHash": "0f2240d03c79c58a0992338cd2a62f8aa201a0a7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1082,14 +1079,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 201,
             "modifiedTime": 1540673151028,
             "changeTime": 1540673151028,
             "contentHash": "9d08b4f2d44e5bd6161a034a999f2fd3f8179f49",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1097,14 +1094,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 199,
             "modifiedTime": 1540673151030,
             "changeTime": 1540673151030,
             "contentHash": "61dbe3cf77a2129e24ff09777f38f47e6ccb1297",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1112,14 +1109,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 219,
             "modifiedTime": 1540673151030,
             "changeTime": 1540673151030,
             "contentHash": "3467b15d43e2f23e3287cad8cd0622c58b3fdc61",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1127,14 +1124,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1540673151031,
             "changeTime": 1540673151031,
             "contentHash": "38590f00b03c4be8e4116dff68bdeaf0d829bfea",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1142,14 +1139,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 200,
             "modifiedTime": 1540673151032,
             "changeTime": 1540673151032,
             "contentHash": "797d4a2003a4dc2b7d0b5a3114a8afef7440ccfb",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1157,14 +1154,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151079,
             "changeTime": 1540673151079,
             "contentHash": "5ab0b8161e000fc6603d769e1b251e598a3524ef",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1172,14 +1169,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\Booze__c.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\Booze__c.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 266,
             "modifiedTime": 1540673151078,
             "changeTime": 1540673151078,
             "contentHash": "730525d61c8ebb478b55740f0299131733c52ec8",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1187,14 +1184,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151079,
             "changeTime": 1540673151079,
             "contentHash": "278a8c0408e4e71d0f0e3b3395b803b5d1bd3d60",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1202,14 +1199,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields\\Amount__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields\\Amount__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 384,
             "modifiedTime": 1540673151080,
             "changeTime": 1540673151080,
             "contentHash": "25a05aae8a4d8f9d4c17ae5fd74afa5f1402b510",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1217,14 +1214,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151145,
             "changeTime": 1540673151145,
             "contentHash": "7c277a4a3fea161827da03d3f2c58591e969e632",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1232,14 +1229,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 3830,
             "modifiedTime": 1540673151144,
             "changeTime": 1540673151144,
             "contentHash": "b1282e87bdd4a2335ac4ed49df35012cfe64346c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1247,14 +1244,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151172,
             "changeTime": 1540673151172,
             "contentHash": "893a6e845dca13a87a136efb4102cb0b00a2a467",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1262,14 +1259,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 302,
             "modifiedTime": 1540673151146,
             "changeTime": 1540673151146,
             "contentHash": "1cacb79921be5f60c03389009787e124b2ed4723",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1277,14 +1274,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 299,
             "modifiedTime": 1540673151147,
             "changeTime": 1540673151147,
             "contentHash": "65387929308ea837e5d8db448edaa04ce6d19501",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1292,14 +1289,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 308,
             "modifiedTime": 1540673151148,
             "changeTime": 1540673151148,
             "contentHash": "bd407ab3418d4c0105635a2e94328ee23ece2c7b",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1307,14 +1304,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1540673151149,
             "changeTime": 1540673151149,
             "contentHash": "fe9266f8deba7e98727818b1c4d4c5a401b661f1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1322,14 +1319,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 191,
             "modifiedTime": 1540673151150,
             "changeTime": 1540673151150,
             "contentHash": "0151e1eb4b7753644b712a60d1e2e3b0dea3c93e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1337,14 +1334,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1540673151151,
             "changeTime": 1540673151151,
             "contentHash": "decee9667fd366c60248b76d0ae321d810ff7d82",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1352,14 +1349,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 193,
             "modifiedTime": 1540673151152,
             "changeTime": 1540673151152,
             "contentHash": "cb0e24f2f9b2a79bb29753110aa961c26ab2db37",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1367,14 +1364,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1540673151153,
             "changeTime": 1540673151153,
             "contentHash": "78d195d1a849a917372c92f99133215160bc3e93",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1382,14 +1379,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1540673151154,
             "changeTime": 1540673151154,
             "contentHash": "533f77dcc799e97eb3dd5958c86d3f24b407d04f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1397,14 +1394,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1540673151155,
             "changeTime": 1540673151155,
             "contentHash": "acb08c592fd629c17a0ecfb1b9337c924c4b9c17",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1412,14 +1409,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 279,
             "modifiedTime": 1540673151157,
             "changeTime": 1540673151157,
             "contentHash": "9bc08ec4947f0bec3fd5569d0fe676bb9318408d",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1427,14 +1424,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 285,
             "modifiedTime": 1540673151158,
             "changeTime": 1540673151158,
             "contentHash": "21baae67ca402c56c0674251eddd1af83226204f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1442,14 +1439,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 280,
             "modifiedTime": 1540673151159,
             "changeTime": 1540673151159,
             "contentHash": "bc7a6a865469734e57ad9a13ae58771692a5385c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1457,14 +1454,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1540673151160,
             "changeTime": 1540673151160,
             "contentHash": "466828d12b34c82494a38d19b97155a143c0fcd1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1472,14 +1469,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 298,
             "modifiedTime": 1540673151161,
             "changeTime": 1540673151161,
             "contentHash": "8bf4dd5f362fa840760f76404520e1aab07d097f",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1487,14 +1484,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1540673151162,
             "changeTime": 1540673151162,
             "contentHash": "6632d3c8d88035305374064b84fc58f43d9bf959",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1502,14 +1499,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 301,
             "modifiedTime": 1540673151162,
             "changeTime": 1540673151162,
             "contentHash": "edc14af69ad27904deb957f9b3df3617e58416fa",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1517,14 +1514,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1540673151164,
             "changeTime": 1540673151164,
             "contentHash": "a763bd0d52e5d35afe0c9d4f2f02beeb2ae2cdec",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1532,14 +1529,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 300,
             "modifiedTime": 1540673151165,
             "changeTime": 1540673151165,
             "contentHash": "a7d63c48480eaae5b549a615ba958f2d5b193454",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1547,14 +1544,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 275,
             "modifiedTime": 1540673151167,
             "changeTime": 1540673151167,
             "contentHash": "5d92ab3f6f7b42b9ccc54a1d5df00c4d461172e0",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1562,14 +1559,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 198,
             "modifiedTime": 1540673151168,
             "changeTime": 1540673151168,
             "contentHash": "ece181df0735ab5b60d17ce0fa34ce0e0bad9655",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1577,14 +1574,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1540673151169,
             "changeTime": 1540673151169,
             "contentHash": "d73c198c3d9e3912ea6ae1e6aea28f706788d82c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1592,14 +1589,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1540673151170,
             "changeTime": 1540673151170,
             "contentHash": "8af01561b28ae55a29763cb091f17893c89b57de",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1607,14 +1604,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 196,
             "modifiedTime": 1540673151171,
             "changeTime": 1540673151171,
             "contentHash": "70cdca272459306af548bec050c6d2a2fff713e1",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1622,14 +1619,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 298,
             "modifiedTime": 1540673151173,
             "changeTime": 1540673151173,
             "contentHash": "6cba81d43fa842e8b9303ab2a3e8baace3a497c3",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1637,14 +1634,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1540673151377,
             "changeTime": 1540673151377,
             "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1652,14 +1649,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 26098,
             "modifiedTime": 1540673151378,
             "changeTime": 1540673151378,
             "contentHash": "9d43e6875fed17ac6c3070ab71e173f2c474b598",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1667,14 +1664,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 12571,
             "modifiedTime": 1540673151257,
             "changeTime": 1540673151257,
             "contentHash": "26fc511b2dbafab4e302b3bb511f8a2edf014477",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1682,14 +1679,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 12570,
             "modifiedTime": 1540673151328,
             "changeTime": 1540673151328,
             "contentHash": "ecdf257f06d53b18d4711de4171eb7a50104300c",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1697,14 +1694,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 12907,
             "modifiedTime": 1540673151278,
             "changeTime": 1540673151278,
             "contentHash": "b21df48cc71b01085988dac276096d61d7143918",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1727,14 +1724,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1541105524117,
             "changeTime": 1541105524117,
             "contentHash": "e3368e05e9cc20ec60804fbe20e1fd62f477ce88",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1742,14 +1739,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes\\bringBoozes.evt",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes\\bringBoozes.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 126,
             "modifiedTime": 1541106218753,
             "changeTime": 1541106218753,
             "contentHash": "de5169df10d05dfd8496c4ef10c158457e53309a",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -1757,14 +1754,14 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes\\bringBoozes.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes\\bringBoozes.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 239,
             "modifiedTime": 1541105524117,
             "changeTime": 1541105524117,
             "contentHash": "08ca4f14e73a181f743567f1f9eda73e46367eb7",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }

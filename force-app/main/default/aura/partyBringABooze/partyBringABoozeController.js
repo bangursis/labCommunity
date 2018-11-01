@@ -24,7 +24,7 @@
         let action = component.get("c.updateABooze");
         action.setParams({
             bId, 
-            amount : amount + currentAmount
+            amount : +amount + +currentAmount
         });
         $A.enqueueAction(action);
 
