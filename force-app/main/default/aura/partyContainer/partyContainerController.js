@@ -8,5 +8,9 @@
     },
     handleBoozesLoaded : function(component, event){
         console.log(event.getParams("boozes"));
+    },
+
+    handleBoozesBringed : function(component){
+        console.log("bringed");
     }
 })
