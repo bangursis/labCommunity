@@ -27,7 +27,26 @@
         $A.enqueueAction(action);
 
         action.setCallback(this, res =>{
-            console.log(res.getState());
+            let evt = $A.get("e.force:showToast");
+
+            if(res.getState() == 'SUCCESS')
+            {
+                evt.setParams({
+                    title : `SUCCESS`,
+                    message : `Brah! God, bless his holy soul fo dat buzes`,
+                    type : `success`
+                })
+            }
+            
+            else{
+                evt.setParams({
+                    title : `SMTH WENT WRONG`,
+                    message : `DA FACK?! DA PARTY IS BULLSHIT`,
+                    type : `error`
+                });
+            }
+
+            evt.fire();
         })
     }
 })
