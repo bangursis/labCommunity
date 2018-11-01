@@ -35,7 +35,8 @@
                     title : `SUCCESS`,
                     message : `Brah! God, bless his holy soul fo dat buzes`,
                     type : `success`
-                })
+                });
+                helper.bringNotification(bId, amount);
             }
             
             else{
