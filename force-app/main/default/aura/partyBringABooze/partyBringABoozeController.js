@@ -19,12 +19,11 @@
         let booze = boozes[index || 0];
         let bId = booze.Id;
         let currentAmount = booze.Amount__c;
-        let amount = component.find("amount").get('v.value');
+        let amount = +component.find("amount").get('v.value') + +currentAmount;
 
         let action = component.get("c.updateABooze");
         action.setParams({
-            bId, 
-            amount : +amount + +currentAmount
+            bId, amount
         });
         $A.enqueueAction(action);
 
