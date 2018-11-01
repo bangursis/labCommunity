@@ -3,6 +3,8 @@
     <aura:attribute name="boozes" type="List" default="[]"/>
 
     <aura:handler name="loadBoozes" event="c:loadBoozes" action="{!c.handleBoozesLoaded}"/>
+    <aura:handler name="bring" event="c:bringBoozes" action="{!c.handleBoozesBringed}"/>
+
     <div class="container">
         <lightning:buttonGroup class="slds-p-right_none slds-p-top_none">
             <lightning:button class="selectedTab" aura:id="button" label="Order a booze" value="order" onclick="{!c.switchTab}"/>
