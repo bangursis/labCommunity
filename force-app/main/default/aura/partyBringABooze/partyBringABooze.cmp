@@ -3,7 +3,7 @@
     <aura:attribute name="boozes" type="List" />
 
     <aura:handler name="init" value="{!this}" action="{!c.init}"/>
-    <aura:registerEvent name="bring" type="c:bringBoozes"/>
+    <aura:registerEvent name="bringBoozes" type="c:bringBoozes"/>
 
     <lightning:select aura:id="pickABooze" label="Bringed Booze">
         <aura:iteration  items="{!v.boozes}" var="booze" indexVar="i">

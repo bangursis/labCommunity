@@ -1,6 +1,6 @@
 ({
-    bringNotification : function(type, amount) {
-        let evt = $A.get("e.c:bringBoozes");
+    bringNotification : function(component, type, amount) {
+        let evt = component.getEvent("bringBoozes");
 
         evt.setParams({
             bringedAmount : new Map([[type, amount]])

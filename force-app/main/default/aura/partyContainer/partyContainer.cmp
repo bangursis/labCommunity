@@ -3,7 +3,7 @@
     <aura:attribute name="boozes" type="List" default="[]"/>
 
     <aura:handler name="loadBoozes" event="c:loadBoozes" action="{!c.handleBoozesLoaded}"/>
-    <aura:handler name="bring" event="c:bringBoozes" action="{!c.handleBoozesBringed}"/>
+    <aura:handler name="bringBoozes" event="c:bringBoozes" action="{!c.handleBoozesBringed}"/>
 
     <div class="container">
         <lightning:buttonGroup class="slds-p-right_none slds-p-top_none">
