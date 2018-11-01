@@ -38,7 +38,7 @@
                     message : `Brah! God, bless his holy soul fo dat buzes`,
                     type : `success`
                 });
-                helper.bringNotification(bId, amount);
+                helper.bringNotification(component, bId, amount);
             }else{
                 evt.setParams({
                     title : `SMTH WENT WRONG`,
