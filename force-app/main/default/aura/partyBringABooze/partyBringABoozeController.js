@@ -12,17 +12,19 @@
         })
     },    
 
-    bring: function(component){
+    bring: function(component, event, helper){
         let index = component.find("pickABooze").get("v.value");
         let boozes = component.get("v.boozes");
 
         let booze = boozes[index || 0];
         let bId = booze.Id;
+        let currentAmount = booze.Amount__c;
         let amount = component.find("amount").get('v.value');
 
         let action = component.get("c.updateABooze");
         action.setParams({
-            bId, amount
+            bId, 
+            amount : amount + currentAmount
         });
         $A.enqueueAction(action);
 
@@ -37,9 +39,7 @@
                     type : `success`
                 });
                 helper.bringNotification(bId, amount);
-            }
-            
-            else{
+            }else{
                 evt.setParams({
                     title : `SMTH WENT WRONG`,
                     message : `DA FACK?! DA PARTY IS BULLSHIT`,
