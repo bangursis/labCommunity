@@ -6,7 +6,7 @@ public class PartyController {
 
    @AuraEnabled
    public static List<Booze__c> boozesToBring(){
-     return [SELECT Name FROM Booze__c];
+     return [SELECT Name, Amount__c FROM Booze__c];
    }
 
    @AuraEnabled
