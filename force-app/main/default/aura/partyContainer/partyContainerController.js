@@ -10,7 +10,8 @@
         console.log(event.getParams("boozes"));
     },
 
-    handleBoozesBringed : function(component){
-        console.log("bringed");
+    handleBoozesBringed : function(component, event, helper){
+        helper.updateBringedAmount(component, event);
+        
     }
 })
