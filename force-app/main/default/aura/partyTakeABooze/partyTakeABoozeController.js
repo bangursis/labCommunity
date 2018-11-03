@@ -26,18 +26,21 @@
     },
 
     take : function(component, event, helper){
+        let input = component.find("pickedAmount");
         let index = component.find("pickABooze").get("v.value");
         let boozes = component.get("v.boozes");
 
         let booze = boozes[index || 0];
         let bId = booze.Id;
-        let amount = component.get("v.selectedAmount") - component.find("pickedAmount").get('v.value');
+        let amount = component.get("v.selectedAmount") - input.get('v.value');
 
         let action = component.get("c.updateABooze");
         action.setParams({
             bId, amount
         });
-        $A.enqueueAction(action);
+        if(input.get("v.validity").valid){
+            $A.enqueueAction(action);
+        }
 
         action.setCallback(this, res => {
             let state = res.getState();
@@ -51,7 +54,8 @@
     },
 
     checkInput : function(component, event, helper){
-        let input = component.find("amount");
+        let input = component.find("pickedAmount").get('v.value');
+
 
         component.find("btn").set("disabled", !(input.get("v.validity").valid));
     }
