@@ -25,5 +25,24 @@
             });
 
         component.set("v.boozes", updatedBoozes); 
+    },
+
+    showToast: function(state){
+        let title, type, message;
+        let evt = $A.get("e.force:showToast");
+
+        if(state == `SUCCESS`){ 
+            title = `Enjoy da moment`;
+            message = `10q fo' comin'`;
+            type = `success`;
+        } else {
+            title = `SMTH WENT WRONG`;
+            message = `DA FACK?! DA PARTY IS BULLSHIT`;
+            type = `error`;
+        }
+
+        evt.setParams({title, message, type});
+
+        evt.fire();
     }
 })

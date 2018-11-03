@@ -40,25 +40,13 @@
         $A.enqueueAction(action);
 
         action.setCallback(this, res => {
-            let evt = $A.get("e.force:showToast");
-            let title, type, message;
+            let state = res.getState();
 
-            if(res.getState() == 'SUCCESS'){
+            if(state == 'SUCCESS'){
                 helper.editBoozes(component, boozes, amount, bId);
-                title = `Enjoy da moment`;
-                message = `10q fo' comin'`;
-                type = `success`;
             }
 
-            else{
-                title = `SMTH WENT WRONG`,
-                message = `DA FACK?! DA PARTY IS BULLSHIT`,
-                type = `error`
-            }
-
-            evt.setParams({title, message, type});
-
-            evt.fire();
+            helper.showToast(state);
         });
     }
 })
