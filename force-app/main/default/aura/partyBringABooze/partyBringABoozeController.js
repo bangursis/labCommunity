@@ -13,19 +13,22 @@
     },    
 
     bring: function(component, event, helper){
+        let input = component.find("amount");
         let index = component.find("pickABooze").get("v.value");
         let boozes = component.get("v.boozes");
 
         let booze = boozes[index || 0];
         let bId = booze.Id;
         let currentAmount = booze.Amount__c;
-        let amount = +component.find("amount").get('v.value') + +currentAmount;
+        let amount = +input.get('v.value') + +currentAmount;
 
         let action = component.get("c.updateABooze");
         action.setParams({
             bId, amount
         });
-        $A.enqueueAction(action);
+
+        if(input.get("v.validity").valid)
+            $A.enqueueAction(action);
 
         action.setCallback(this, res =>{
             let evt = $A.get("e.force:showToast");
