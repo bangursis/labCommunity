@@ -44,7 +44,7 @@
             let title, type, message;
 
             if(res.getState() == 'SUCCESS'){
-                helper.editBoozes(component, boozes, amount);
+                helper.editBoozes(component, boozes, amount, bId:w);
                 title = `Enjoy da moment`;
                 message = `10q fo' comin'`;
                 type = `success`;

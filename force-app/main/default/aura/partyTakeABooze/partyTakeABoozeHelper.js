@@ -8,7 +8,7 @@
         event.fire();
     },
 
-    editBoozes: function(component, boozes, amount){
+    editBoozes: function(component, boozes, amount, bId){
         let updatedBoozes= [];
         if(amount === 0){
                 updatedBoozes = boozes.filter(current => current.Id != bId);
