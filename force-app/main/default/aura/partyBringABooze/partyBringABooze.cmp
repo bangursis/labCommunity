@@ -12,8 +12,8 @@
 
     </lightning:select>
     
-    <lightning:input type="number" min="0" aura:id="amount" label="Amount to bring"/>
+    <lightning:input onchange="{!c.validateInput}" reuqired="true" type="number" min="0" aura:id="amount" label="Amount to bring"/>
 
-    <lightning:button label="Brin' dis" onclick="{!c.bring}" class="btn"/>
+    <lightning:button label="Brin' dis" onclick="{!c.bring}" disabled="true" class="btn"/>
 </aura:component>	
   

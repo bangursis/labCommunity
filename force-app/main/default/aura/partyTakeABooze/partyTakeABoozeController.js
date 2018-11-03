@@ -48,6 +48,12 @@
 
             helper.showToast(state);
         });
+    },
+
+    validateInput : function(component, event, helper){
+        let input = component.find("amount");
+
+        component.set("disabled", !(input.get("v.validity").valid));
     }
 })
  

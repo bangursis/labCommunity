@@ -184,14 +184,13 @@
         {
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp",
             "isDirectory": false,
-            "size": 663,
-            "modifiedTime": 1541107972492,
-            "changeTime": 1541107972492,
-            "contentHash": "cf035547f9d7ea27157808322f60f769fb7e0b2a",
+            "size": 725,
+            "modifiedTime": 1541268216606,
+            "changeTime": 1541268216606,
+            "contentHash": "c5ca9d49bb0750f50cca8ff0da84d3ef43d5d8c8",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -407,15 +406,15 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerController.js",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 534,
             "modifiedTime": 1541266033890,
             "changeTime": 1541266033890,
-            "isWorkspace": false,
-            "contentHash": "bb95d3b7c532d800641d59a463d7e5858b58a623"
+            "contentHash": "bb95d3b7c532d800641d59a463d7e5858b58a623",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -454,7 +453,7 @@
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1540324289283,
+            "modifiedTime": 1541267441931,
             "changeTime": 1540324289283,
             "contentHash": "5aaddb4fd22c77288652c45c4844ee8927e0f9b4",
             "isMetadataFile": false,
@@ -481,16 +480,15 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp",
         {
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp",
             "isDirectory": false,
-            "size": 1130,
-            "modifiedTime": 1540842469035,
-            "changeTime": 1540842469035,
-            "contentHash": "580490de43b48bc57a62882e919e04e30201dba6",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 1176,
+            "modifiedTime": 1541268345735,
+            "changeTime": 1541268345735,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "329be011ecd9b0d54d0b5626ce2758f58f8ccf86"
         }
     ],
     [
@@ -556,15 +554,15 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeController.js",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeController.js",
             "isDirectory": false,
+            "size": 1927,
+            "modifiedTime": 1541268261319,
+            "changeTime": 1541268261319,
+            "contentHash": "9b34965fab0fd0b39b4e6bec39cba349297f5fde",
             "isMetadataFile": false,
-            "size": 2679,
-            "modifiedTime": 1541266360877,
-            "changeTime": 1541266360877,
-            "isWorkspace": false,
-            "contentHash": "81bf7c70fe6b7c10f9857d34eb169f10353e0211"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -572,14 +570,13 @@
         {
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeHelper.js",
             "isDirectory": false,
-            "size": 223,
-            "modifiedTime": 1540841547158,
-            "changeTime": 1540841547158,
-            "contentHash": "97f3a4e31a0090cfe647301998690875848976c2",
+            "size": 1338,
+            "modifiedTime": 1541267913922,
+            "changeTime": 1541267913922,
+            "contentHash": "b3a41b4165661b7e9c5da7064f02f54f97098891",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -1245,15 +1242,15 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields\\Amount__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields\\Amount__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 384,
             "modifiedTime": 1541111157638,
             "changeTime": 1541111157638,
-            "isWorkspace": false,
-            "contentHash": "e31a1799f1adeea4c1c5ab3a14b8259457500fc7"
+            "contentHash": "e31a1799f1adeea4c1c5ab3a14b8259457500fc7",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
