@@ -13,9 +13,9 @@
                 </aura:iteration>
             </lightning:select>
 
-            <lightning:input required="true" onchange="{!c.validateInput}" type="number" min="0" aura:id="pickedAmount" max="{!v.selectedAmount}" label="Amount to drink" placeholder="{!'Max: ' + v.selectedAmount}"/>
+            <lightning:input required="true" onchange="{!c.checkInput}" type="number" min="0" aura:id="pickedAmount" max="{!v.selectedAmount}" label="Amount to drink" placeholder="{!'Max: ' + v.selectedAmount}"/>
 
-            <lightning:button label="Tak dis" disabled="true" onclick="{!c.take}" class="btn"/>
+            <lightning:button label="Tak dis" disabled="true" aura:id="btn" onclick="{!c.take}" class="btn"/>
             <aura:set attribute="else">
                 <div class="noBoozes">No boozes, brah</div>
             </aura:set>

@@ -50,10 +50,10 @@
         });
     },
 
-    validateInput : function(component, event, helper){
+    checkInput : function(component, event, helper){
         let input = component.find("amount");
 
-        component.set("disabled", !(input.get("v.validity").valid));
+        component.find("btn").set("disabled", !(input.get("v.validity").valid));
     }
 })
  
