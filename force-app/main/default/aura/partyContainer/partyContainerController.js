@@ -6,12 +6,15 @@
 
         helper.selectTab (tab, selected);
     },
+
     handleBoozesLoaded : function(component, event){
-        console.log(event.getParams("boozes"));
+        component.set(
+            "v.boozes", 
+            event.getParam("boozes")
+        );
     },
 
     handleBoozesBringed : function(component, event, helper){
         helper.updateBringedAmount(component, event);
-        
     }
 })

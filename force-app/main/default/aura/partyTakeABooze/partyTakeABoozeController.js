@@ -40,6 +40,9 @@
         $A.enqueueAction(action);
 
         action.setCallback(this, res => {
+            let evt = $A.get("e.force:showToast");
+            let title, type, message;
+
             if(res.getState() == 'SUCCESS'){
                 let updatedBoozes= [];
                 if(amount === 0){
@@ -56,18 +59,22 @@
                         return current;
                     });
 
-                component.set("v.boozes", updatedBoozes);      
+                component.set("v.boozes", updatedBoozes); 
+
+                title = `Enjoy da moment`;
+                message = `10q fo' comin'`;
+                type = `success`;
             }
 
             else{
-                let evt = $A.get("e.force:showToast");
-                evt.setParams({
-                    title : `SMTH WENT WRONG`,
-                    message : `DA FACK?! DA PARTY IS BULLSHIT`,
-                    type : `error`
-                });
-                evt.fire();
+                title = `SMTH WENT WRONG`,
+                message = `DA FACK?! DA PARTY IS BULLSHIT`,
+                type = `error`
             }
+
+            evt.setParams({title, message, type});
+
+            evt.fire();
         });
     }
 })
