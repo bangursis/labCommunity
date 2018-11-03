@@ -25,7 +25,7 @@
         component.set("v.selectedAmount", boozes[index].Amount__c);
     },
 
-    take : function(component){
+    take : function(component, event, helper){
         let index = component.find("pickABooze").get("v.value");
         let boozes = component.get("v.boozes");
 
@@ -44,23 +44,7 @@
             let title, type, message;
 
             if(res.getState() == 'SUCCESS'){
-                let updatedBoozes= [];
-                if(amount === 0){
-                        updatedBoozes = boozes.filter(current => current.Id != bId);
-                        component.set("v.selectedAmount", updatedBoozes[0].Amount__c);
-                }
-                
-                else
-                    updatedBoozes = boozes.map(current => {
-                        if (current.Id == bId) {
-                            current.Amount__c = amount
-                            component.set("v.selectedAmount", amount);
-                        }
-                        return current;
-                    });
-
-                component.set("v.boozes", updatedBoozes); 
-
+                helper.editBoozes(component, boozes, amount);
                 title = `Enjoy da moment`;
                 message = `10q fo' comin'`;
                 type = `success`;

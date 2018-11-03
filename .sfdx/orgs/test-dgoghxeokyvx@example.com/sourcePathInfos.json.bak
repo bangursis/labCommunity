@@ -2,7 +2,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -17,7 +17,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -32,7 +32,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -47,7 +47,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -62,7 +62,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -77,7 +77,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes\\bringBoozes.evt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes\\bringBoozes.evt",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -92,7 +92,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes\\bringBoozes.evt-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\bringBoozes\\bringBoozes.evt-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -107,7 +107,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -122,7 +122,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes\\loadBoozes.evt",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes\\loadBoozes.evt",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -137,7 +137,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes\\loadBoozes.evt-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\loadBoozes\\loadBoozes.evt-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -152,7 +152,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -167,7 +167,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -182,7 +182,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -197,7 +197,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -212,7 +212,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -227,7 +227,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -242,7 +242,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABooze.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -257,7 +257,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -272,7 +272,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -287,7 +287,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyBringABooze\\partyBringABoozeRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -302,7 +302,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -317,7 +317,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -332,7 +332,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -347,7 +347,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -362,7 +362,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -377,7 +377,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -392,7 +392,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainer.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -407,7 +407,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -422,7 +422,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -437,7 +437,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyContainer\\partyContainerRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -452,7 +452,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -467,7 +467,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.auradoc",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.auradoc",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -482,7 +482,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -497,7 +497,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.cmp-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -512,7 +512,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.css",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.css",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -527,7 +527,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.design",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.design",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -542,7 +542,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.svg",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABooze.svg",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -557,7 +557,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeController.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeController.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -572,7 +572,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeHelper.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeHelper.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -587,7 +587,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeRenderer.js",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\aura\\partyTakeABooze\\partyTakeABoozeRenderer.js",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -602,7 +602,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -617,7 +617,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls",
             "isDirectory": false,
             "isMetadataFile": false,
@@ -632,7 +632,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\classes\\PartyController.cls-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -647,7 +647,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -662,7 +662,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -677,7 +677,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\flexipages\\Case_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -692,7 +692,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -707,7 +707,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -722,7 +722,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\Account.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -737,7 +737,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -752,7 +752,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AccountNumber.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -767,7 +767,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AccountSource.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -782,7 +782,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\AnnualRevenue.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -797,7 +797,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\BillingAddress.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -812,7 +812,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\CleanStatus.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -827,7 +827,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\DandbCompanyId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -842,7 +842,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Description.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -857,7 +857,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\DunsNumber.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -872,7 +872,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Fax.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -887,7 +887,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Industry.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -902,7 +902,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Jigsaw.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -917,7 +917,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NaicsCode.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -932,7 +932,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NaicsDesc.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -947,7 +947,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Name.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -962,7 +962,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\NumberOfEmployees.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -977,7 +977,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\OperatingHoursId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -992,7 +992,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1007,7 +1007,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Ownership.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1022,7 +1022,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\ParentId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1037,7 +1037,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Phone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1052,7 +1052,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Rating.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1067,7 +1067,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\ShippingAddress.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1082,7 +1082,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Sic.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1097,7 +1097,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\SicDesc.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1112,7 +1112,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Site.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1127,7 +1127,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\TickerSymbol.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1142,7 +1142,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Tradestyle.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1157,7 +1157,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Type.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1172,7 +1172,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\Website.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1187,7 +1187,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Account\\fields\\YearStarted.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1202,7 +1202,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1217,7 +1217,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\Booze__c.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\Booze__c.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1232,7 +1232,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1247,7 +1247,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields\\Amount__c.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Booze__c\\fields\\Amount__c.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1262,7 +1262,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1277,7 +1277,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\Case.object-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1292,7 +1292,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1307,7 +1307,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\AccountId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1322,7 +1322,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\AssetId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1337,7 +1337,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\BusinessHoursId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1352,7 +1352,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ClosedDate.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1367,7 +1367,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Comments.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1382,7 +1382,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactEmail.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1397,7 +1397,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactFax.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1412,7 +1412,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1427,7 +1427,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactMobile.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1442,7 +1442,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ContactPhone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1457,7 +1457,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Description.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1472,7 +1472,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\IsClosedOnCreate.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1487,7 +1487,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\IsEscalated.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1502,7 +1502,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Origin.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1517,7 +1517,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\OwnerId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1532,7 +1532,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\ParentId.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1547,7 +1547,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Priority.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1562,7 +1562,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Reason.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1577,7 +1577,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Status.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1592,7 +1592,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Subject.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1607,7 +1607,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedCompany.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1622,7 +1622,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedEmail.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1637,7 +1637,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedName.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1652,7 +1652,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\SuppliedPhone.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1667,7 +1667,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\objects\\Case\\fields\\Type.field-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1682,7 +1682,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles",
             "isDirectory": true,
             "isMetadataFile": false,
@@ -1697,7 +1697,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1712,7 +1712,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1727,7 +1727,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1742,7 +1742,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
@@ -1757,7 +1757,7 @@
     [
         "e:\\SALESFORCE\\lab\\lab",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "e:\\SALESFORCE\\lab\\lab",
             "isDirectory": true,
             "isMetadataFile": false,
