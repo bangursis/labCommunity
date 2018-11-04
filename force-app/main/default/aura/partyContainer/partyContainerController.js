@@ -1,10 +1,10 @@
 ({
-     switchTab: function(component, event) {
+     switchTab: function(component, event, helper) {
         let selected = event.getSource().get("v.value");
         component.set("v.selectedTab", selected);
         let tabs = component.find('button') ;
 
-        helper.selectTab (tab, selected);
+        helper.selectTab(tab, selected);
     },
 
     handleBoozesLoaded : function(component, event){
